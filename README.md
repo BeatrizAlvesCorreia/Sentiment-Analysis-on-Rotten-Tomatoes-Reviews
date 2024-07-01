@@ -1,6 +1,11 @@
 # Sentiment-Analysis-on-Rotten-Tomatoes-Reviews
 This repository contains code and documentation for the Sentiment Analysis project on Rotten Tomatoes reviews by Beatriz Correia (Myself) and Luís Pereira. It classifies review sentiment using techniques like lexicon-based methods, machine learning classifiers, and transformer-based models.
 
+Files to consideer:
+- Rotten_Tomatoes_TextMining.ipynb: Holds the whole process.
+- NCR-lexicon.csv: CSV with lexicon used
+
+
 ## Introduction
 Sentiment analysis is a crucial task in Natural Language Processing (NLP) that involves extracting subjective information from text. This project focuses on classifying the sentiment of movie reviews from Rotten Tomatoes into positive, negative, or neutral categories. The dataset used consists of reviews in English, divided into training and testing sets. An exploratory data analysis was followed by various preprocessing techniques. Classification models were developed and evaluated based on precision, recall, and F1-score. Notable models include DistilBERT and OpenAI's ChatGPT for generative sentiment classification. Results are discussed in detail, highlighting the advantages and limitations of each approach and potential future research directions.
 
