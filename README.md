@@ -21,7 +21,7 @@ Each dataset contains the following columns:
 | **Sentiment** |String| Sentiment label (positive, negative, neutral) |
 | **Review** | String | The text of the review |
 
-Note: The dataset could not be shared due confidentiality. 
+Note: The dataset could not be shared due to confidentiality. 
 
 ## Data Preparation
 - Imported the dataset using Pandas. Added headers to the datasets as they initially lacked them. Checked for and confirmed the absence of missing values.
