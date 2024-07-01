@@ -23,9 +23,6 @@ Each dataset contains the following columns:
 
 Note: The dataset could not be shared due to confidentiality. 
 
-## Data Preparation
-- Imported the dataset using Pandas. Added headers to the datasets as they initially lacked them. Checked for and confirmed the absence of missing values.
-
 ## Exploratory Data Analysis (EDA)
 Descriptive statistics were computed for the sentiment distribution.
 Visualizations were created to understand the data distribution.
