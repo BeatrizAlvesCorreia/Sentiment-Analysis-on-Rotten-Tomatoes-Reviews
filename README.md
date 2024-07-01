@@ -1,7 +1,7 @@
 # Sentiment-Analysis-on-Rotten-Tomatoes-Reviews
 This repository contains code and documentation for the Sentiment Analysis project on Rotten Tomatoes reviews by Beatriz Correia (Myself) and Luís Pereira. It classifies review sentiment using techniques like lexicon-based methods, machine learning classifiers, and transformer-based models.
 
-Files to consideer:
+Files to consider:
 - Rotten_Tomatoes_TextMining.ipynb: Holds the whole process.
 - NCR-lexicon.csv: CSV with lexicon used
 
